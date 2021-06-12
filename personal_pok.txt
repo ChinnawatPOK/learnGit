@@ -1,3 +1,7 @@
 personal Pok
 test
+<<<<<<< HEAD
 I like master - pong
+=======
+I like blue - pok
+>>>>>>> personal
