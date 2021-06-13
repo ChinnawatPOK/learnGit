@@ -4,3 +4,7 @@ Pok Chinnawat kaewchim
 
 
 Test revert on happiness.txt
+
+git diff in happiness file
+
+git test remote
